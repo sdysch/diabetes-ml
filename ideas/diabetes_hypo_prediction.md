@@ -21,3 +21,6 @@
 * Time since mealtime?
 * Is morning/afternoon/evening
 * 
+
+## Extensions
+* 3-way classification, is_low, is_high, is_ok?
