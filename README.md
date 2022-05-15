@@ -14,7 +14,7 @@
 	* Insulin sensitivity changes over time
 * Forward fill basal rates, so we always have the current basal rate as a data point
 
-# To-do
+# To-do and ideas
 * Are the libre and pump BG distributions statistically similar?
 	* I would expect not, but the question is how different are they
 * Compare BG distributions around:
@@ -24,3 +24,4 @@
 	* after a _large_ bolus
 * Can we use these factors to predict a low/high?
 	* Define thresholds for these
+* Low/high prediction, based on BG readings for last 30 mins?
