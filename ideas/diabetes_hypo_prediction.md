@@ -13,6 +13,11 @@
 * Dataset is probably going to be very imbalanced!
 * How to deal with biasing time ordering with this labelling?
 
+## Models
+* Baseline: RandomForest/BRT with lag variables
+* LSTM (+CNN for smoothing?)
+* Transformer encoders: https://keras.io/examples/timeseries/timeseries_transformer_classification/
+
 ## Misc
 * When creating lookbacks, ensure that I don't skip over a period where I wasn't wearing the sensor
 
