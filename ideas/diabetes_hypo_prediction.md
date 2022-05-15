@@ -13,6 +13,9 @@
 * Dataset is probably going to be very imbalanced!
 * How to deal with biasing time ordering with this labelling?
 
+## Misc
+* When creating lookbacks, ensure that I don't skip over a period where I wasn't wearing the sensor
+
 ## Variable ideas
 * Can I replicate the libre "arrows"?
 	* positive/negative gradient ---> is BG increasing/decreasing? At what rate (mmol/L per timestep)?
