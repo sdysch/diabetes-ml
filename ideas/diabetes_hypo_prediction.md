@@ -5,6 +5,10 @@
 * Later, would want to add basal and pump data (boluses, food, over-corrections from high BG readings, etc)
 * Only have 90 days of pump data, with very limited bolus info, hard to develop anything
 * Can I get more data from my medtronic website?
+	* Using pump data also assumes a relationship between BG/food/insulin sensitivity/etc that does not change
+	* I know this assumption is invalid
+* These relationships will differ between person to person
+	* Using libre-only data would allow for a "person-agnostic" model
 
 
 ## How to define a hypo?
