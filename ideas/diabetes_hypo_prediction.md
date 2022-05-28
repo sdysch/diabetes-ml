@@ -36,3 +36,12 @@
 
 ## Extensions
 * 3-way classification, is_low, is_high, is_ok?
+
+## TODO
+* Drop rate features?
+* Drop diff features, turn into is_decreasing/is_stable/is_increasing bools (with sensible threshold)
+* What is a sensible threshold?
+
+## Random thoughts
+* Will lagged_hypo variables be skewed by overnight hypos that I missed/slept through?
+	* Something to evaluate in a later model validation step
