@@ -45,3 +45,7 @@
 ## Random thoughts
 * Will lagged_hypo variables be skewed by overnight hypos that I missed/slept through?
 	* Something to evaluate in a later model validation step
+
+# Extensions
+* LogisticRegression:
+	* Probability that I will have a hypo
