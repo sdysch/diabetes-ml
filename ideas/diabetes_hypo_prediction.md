@@ -47,5 +47,3 @@
 	* Something to evaluate in a later model validation step
 
 # Extensions
-* LogisticRegression:
-	* Probability that I will have a hypo
